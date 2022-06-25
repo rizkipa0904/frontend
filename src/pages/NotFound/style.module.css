@@ -1,0 +1,22 @@
+.container {
+    background-color: #fefefe;
+}
+
+.error404 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.text {
+    position: absolute;
+    padding-top: 10rem;
+}
+
+.link {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    bottom: 100px;
+}
